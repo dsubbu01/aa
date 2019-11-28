@@ -7,7 +7,7 @@
 What is Augmented Analytics?
 @snapend
 
-@snap[south span-100 font-montserrat text-black]
+@snap[south span-90 font-montserrat text-black]
 Augmented Analytics is a new paradigm in the analytics world that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 
