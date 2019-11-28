@@ -16,7 +16,7 @@
 @snapend
 
 @snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
+Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations.
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
