@@ -12,7 +12,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@snap[west span-80 text-center text-10]
+@snap[west span-80 h2-white]
 Purpose?
 @snapend
 
@@ -20,12 +20,10 @@ Purpose?
 Why DXC needs to focus on this emerging trend?
 @snapend
 @snap[east span-40 text-08]
-@ul[list-bullets text-white text-09]
 - You will be amazed
 - What you can achieve
 - *With a little imagination...*
 - And **GitPitch Markdown**
-@ulend
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
