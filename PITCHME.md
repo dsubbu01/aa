@@ -11,16 +11,20 @@ What is Augmented Analytics?
 Augmented Analytics is a new paradigm in the analytics world that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 
-
-
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@snap[west span-50 text-left text-14]
-What is Augmented Analytics?
+@snap[west span-40 text-left text-08]
+What is the purpose? Why DXC needs to focus on this topic?
 @snapend
 
-@snap[east span-60 text-center text-white text-08]
-Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations.
+@snap[east span-60]
+@ul[list-spaced-bullets text-white text-09]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
 @snapend
+
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
 
