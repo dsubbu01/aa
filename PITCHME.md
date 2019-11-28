@@ -13,11 +13,12 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-80 text-white text-14]
-Purpose - Why DXC needs to focus on this emerging trend?
+Purpose?
+Why DXC needs to focus on this emerging trend?
 @snapend
 
 @snap[north-east span-50 text-center]
-#### Challenges faced by customers in implementing analytic solution...
+#### Challenges faced by customers in implementing analytic solution, because...
 @snapend
 @snap[south-east span-48 text-05]
 - Processes of **going from raw data to insights** largely remains **manual** and is extremely **time consuming**
