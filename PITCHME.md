@@ -14,6 +14,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Purpose?
+
 Why DXC needs to focus on this emerging trend?
 @snapend
 
@@ -31,57 +32,20 @@ Why DXC needs to focus on this emerging trend?
 - **Shortage** of expert **data scientists**
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
-@title[Add A Little Imagination]
-
-@snap[north-west h4-white]
-#### And start presenting...
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Target Market
 @snapend
 
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
+@snap[north-east span-50 text-center]
+##### Where is our opportunity?
 @snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----
-
-@snap[north-east span-100 text-pink text-06]
-Let your code do the talking!
-@snapend
-
-```sql zoom-18
-CREATE TABLE "topic" (
-    "id" serial NOT NULL PRIMARY KEY,
-    "forum_id" integer NOT NULL,
-    "subject" varchar(255) NOT NULL
-);
-ALTER TABLE "topic"
-ADD CONSTRAINT forum_id
-FOREIGN KEY ("forum_id")
-REFERENCES "forum" ("id");
-```
-
-@snap[south span-100 text-gray text-08]
-@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
-@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
-@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
+@snap[south-east span-48 text-05]
+- Bullet 1
+- Bullet 2
+- Bullet 3
+- Bullet 4
+- Bullet 4
 @snapend
 
 
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
