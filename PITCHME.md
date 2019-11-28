@@ -1,8 +1,15 @@
 # Augmented Analytics
 
 ---
+---?color=linear-gradient(90deg, white 50%, black 50%)
+@snap[west span-40 text-center]
+###What is Augmented Analytics?
+@snapend
 
-## What is Augmented Analytics?
+@snap[east span-60 text-white]
+Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations.
+@snapend
+---
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
