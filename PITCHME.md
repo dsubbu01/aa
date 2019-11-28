@@ -23,6 +23,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses artificia
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
 
+
 @snap[north-west h4-white]
 #### And start presenting...
 @snapend
