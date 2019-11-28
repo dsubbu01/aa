@@ -3,8 +3,8 @@
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
 
-@snap[north span-70 text-white text-14]
-### What is Augmented Analytics?
+@snap[north span-80 text-white text-14]
+What is Augmented Analytics?
 @snapend
 
 @snap[south span-90 font-montserrat text-black]
@@ -14,7 +14,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@snap[span-50 text-left]
+@snap[west span-50 text-left]
 ### What is Augmented Analytics?
 @snapend
 
