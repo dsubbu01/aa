@@ -16,14 +16,18 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 Purpose?
 @snapend
 
-@snap[north-east span-40 text-08]
+@snap[north-east span-40 text-white text-08]
 Why DXC needs to focus on this emerging trend?
 @snapend
-@snap[east span-40 text-08]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+@snap[east span-40 text-white text-08]
+- Processes of going from raw data to insights largely remains manual and is extremely time consuming
+- Business community is inundated with huge amount of data and it is only getting worse
+- Data complexity is on the rise
+- Feature engineering and selection of relevant features is typically a complex task
+- Business users struggle to identify the key data that plays critical role to take best actions
+- Analytics tools are evolving and are getting relatively easier to use – however, analytics process is highly manual and prone to bias
+- Extremely difficult for users to explore every possible combination/ pattern
+- Shortage of expert data scientists
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
