@@ -40,7 +40,7 @@ Elevator Pitch
 @snap[north-east span-50 text-center]
 ##### Where is our opportunity?
 @snapend
-@snap[east span-48 text-05]
+@snap[east span-48 text-center text-05]
 Elevator pitch...
 @snapend
 
