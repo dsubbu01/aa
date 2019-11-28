@@ -13,8 +13,8 @@
 ## Customize the Layout
 @snapend
 
-@snap[east span-50]
-![IMAGE](assets/img/presentation.png)
+@snap[south span-100 text-white]
+Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations.n.
 @snapend
 
 @snap[south span-100 text-white]
