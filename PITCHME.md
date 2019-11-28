@@ -6,7 +6,7 @@
 
 <!--![IMAGE](assets/img/presentation.png)-->
 @snap[south span-100 text-black]
-Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, aimed at producing unbiased and optimized recommendations
+A new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, aimed at producing unbiased and optimized recommendations
 @snapend
 
 
