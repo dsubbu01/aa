@@ -19,15 +19,15 @@ Purpose?
 @snap[north-east span-40 text-center]
 #### Why DXC needs to focus on this emerging trend?
 @snapend
-@snap[east span-50 text-06]
-- Processes of going from raw data to insights largely remains manual and is extremely time consuming
-- Business community is inundated with huge amount of data and it is only getting worse
-- Data complexity is on the rise
-- Feature engineering and selection of relevant features is typically a complex task
-- Business users struggle to identify the key data that plays critical role to take best actions
-- Analytics tools are evolving and are getting relatively easier to use – however, analytics process is highly manual and prone to bias
-- Extremely difficult for users to explore every possible combination/ pattern
-- Shortage of expert data scientists
+@snap[east span-50 text-05]
+- Processes of **going from raw data to insights** largely remains **manual** and is extremely **time consuming**
+- Business community is **inundated with huge amount of data** and it is only **getting worse**
+- **Data complexity** is on the rise
+- **Feature engineering** and **selection of relevant features** is typically a **complex task**
+- Business users **struggle to identify the key features** that plays critical role to take best actions
+- Analytics tools are evolving and are getting relatively easier to use – however, **analytics process is highly manual and prone to bias**
+- Extremely **difficult for users to explore every possible combination/ pattern**
+- **Shortage** of expert **data scientists**
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
