@@ -1,21 +1,20 @@
-# Augmented Analytics
+# Let's Get Started
 
 ---
-## What is Augmented Analytics?
 
-@snap[south span-100 text-white text-09]
-A new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations
-@snapend
+## Add Some Slide Candy
 
----
+![IMAGE](assets/img/presentation.png)
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Customize Slide Layout]
 
 @snap[west span-50]
 ## Customize the Layout
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100 text-white]
@@ -24,7 +23,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
-
 
 @snap[north-west h4-white]
 #### And start presenting...
