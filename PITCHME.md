@@ -19,7 +19,7 @@ Purpose?
 @snap[north-east span-40 text-center]
 Why DXC needs to focus on this emerging trend?
 @snapend
-@snap[south span-90 text-center text-white text-04]
+@snap[east span-90 text-center text-white text-04]
 - Processes of going from raw data to insights largely remains manual and is extremely time consuming
 - Business community is inundated with huge amount of data and it is only getting worse
 - Data complexity is on the rise
