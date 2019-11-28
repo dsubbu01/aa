@@ -32,7 +32,19 @@ Why DXC needs to focus on this emerging trend?
 - **Shortage** of expert **data scientists**
 @snapend
 
----?color=linear-gradient(90deg, black 50%, white 50%)
+---?color=linear-gradient(100deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Elevator Pitch
+@snapend
+
+@snap[north-east span-50 text-center]
+##### Where is our opportunity?
+@snapend
+@snap[east span-48 text-05]
+Elevator pitch...
+@snapend
+
+---?color=linear-gradient(100deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Target Market
 @snapend
@@ -40,7 +52,7 @@ Target Market
 @snap[north-east span-50 text-center]
 ##### Where is our opportunity?
 @snapend
-@snap[south-east span-48 text-05]
+@snap[east span-48 text-05]
 - Bullet 1
 - Bullet 2
 - Bullet 3
