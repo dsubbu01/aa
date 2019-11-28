@@ -1,4 +1,4 @@
----?color=#0F2862
+---?color=#000000
 # Augmented Analytics
 
 ---?color=linear-gradient(180deg, #ffffff 40%, #005f6b 60%)
