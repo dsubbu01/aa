@@ -19,7 +19,7 @@ Why DXC needs to focus on this emerging trend?
 @snapend
 
 @snap[north-east span-50 text-center]
-##### Challenges faced by customers in implementing analytic solution, because...
+##### Due to challenges faced by customers in implementing analytic solution...
 @snapend
 @snap[south-east span-48 text-05]
 - Processes of **going from raw data to insights** largely remains **manual** and is extremely **time consuming**
@@ -44,7 +44,7 @@ Elevator Pitch
 Elevator pitch...
 @snapend
 
----?color=linear-gradient(110deg, black 50%, white 50%)
+---?color=linear-gradient(80deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Target Market
 @snapend
@@ -69,13 +69,13 @@ Competition
 What are our competitors doing in this space...
 @snapend
 
----?color=linear-gradient(110deg, black 50%, white 50%)
+---?color=linear-gradient(80deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
-Competition
+Expenses
 @snapend
 
 @snap[north-east span-50 text-center]
-##### Our Competition?
+##### Expenses towards buidling this capability?
 @snapend
 @snap[east span-48 text-center text-05]
 What are our competitors doing in this space...
