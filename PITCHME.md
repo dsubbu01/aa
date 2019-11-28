@@ -3,8 +3,8 @@
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
 
-@snap[north span-80 text-white]
-### What is Augmented Analytics?
+@snap[north span-80 text-white h4-white]
+What is Augmented Analytics?
 @snapend
 
 @snap[south span-100 font-montserrat text-black text-08]
