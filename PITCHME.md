@@ -16,8 +16,8 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 Purpose?
 @snapend
 
-@snap[north-east span-80 text-center]
-Why DXC needs to focus on this emerging trend?
+@snap[north-east span-40 text-center]
+#### Why DXC needs to focus on this emerging trend?
 @snapend
 @snap[sputh-east span-90 text-center text-white text-04]
 - Processes of going from raw data to insights largely remains manual and is extremely time consuming
