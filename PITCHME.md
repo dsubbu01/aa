@@ -95,7 +95,7 @@ Skill requirements to build and sustain this capability to serve our clients...
 
 ---?color=linear-gradient(80deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
-Commercials (our ask)?
+Commercials (funding)?
 @snapend
 
 @snap[north-east span-50 text-center]
