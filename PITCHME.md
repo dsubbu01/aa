@@ -1,8 +1,8 @@
-# Let's Get Started
+# Augmented Analytics
 
 ---
 
-## Add Some Slide Candy
+## What is Augmented Analytics?
 
 ![IMAGE](assets/img/presentation.png)
 
