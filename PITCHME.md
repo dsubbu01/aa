@@ -78,5 +78,29 @@ Expenses
 ##### Expenses towards buidling this capability?
 @snapend
 @snap[east span-48 text-center text-05]
-What are our competitors doing in this space...
+What are the expenses that we need to identify, plan for, and track...
+@snapend
+
+---?color=linear-gradient(100deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Skill needs?
+@snapend
+
+@snap[north-east span-50 text-center]
+##### What are the skills needed to build this capability?
+@snapend
+@snap[east span-48 text-center text-05]
+Skill requirements to build and sustain this capability to serve our clients...
+@snapend
+
+---?color=linear-gradient(80deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Commercials (our ask)?
+@snapend
+
+@snap[north-east span-50 text-center]
+##### What is the ask from the ORB to build this capability?
+@snapend
+@snap[east span-48 text-center text-05]
+Financial ask to build this capability ...
 @snapend
