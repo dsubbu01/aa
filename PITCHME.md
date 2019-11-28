@@ -40,24 +40,43 @@ Elevator Pitch
 @snap[north-east span-50 text-center]
 ##### Where is our opportunity?
 @snapend
-@snap[east span-48 text-left text-05]
+@snap[east span-48 text-center text-05]
 Elevator pitch...
 @snapend
 
----?color=linear-gradient(100deg, black 50%, white 50%)
+---?color=linear-gradient(110deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Target Market
 @snapend
 
 @snap[north-east span-50 text-center]
-##### Where is our opportunity?
+##### What is our target market like?
 @snapend
-@snap[east span-48 text-05]
-- Bullet 1
-- Bullet 2
-- Bullet 3
-- Bullet 4
-- Bullet 4
+@snap[east span-48 text-center text-05]
+Target market...
 @snapend
 
 
+---?color=linear-gradient(100deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Competition
+@snapend
+
+@snap[north-east span-50 text-center]
+##### Our Competition?
+@snapend
+@snap[east span-48 text-center text-05]
+What are our competitors doing in this space...
+@snapend
+
+---?color=linear-gradient(110deg, black 50%, white 50%)
+@snap[west span-40 text-white text-14]
+Competition
+@snapend
+
+@snap[north-east span-50 text-center]
+##### Our Competition?
+@snapend
+@snap[east span-48 text-center text-05]
+What are our competitors doing in this space...
+@snapend
