@@ -3,21 +3,21 @@
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
 
-@snap[north span-40 text-white h3-white]
+@snap[north span-90 text-center text-white h2-white]
 What is Augmented Analytics?
 @snapend
 
-@snap[south span-90 font-montserrat text-black text-08]
+@snap[south span-90 text-center font-montserrat text-black text-08]
 Augmented Analytics is a new paradigm in the analytics world that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
-@snap[west span-40 text-left text-08]
-What is the purpose?
-Why DXC needs to focus on this emerging trend?
+@snap[west span-80 text-center text-10]
+Purpose?
 @snapend
 
-@snap[east span-60]
+@snap[east span-90 text-center text-08]
+Why DXC needs to focus on this emerging trend?
 @ul[list-bullets text-white text-09]
 - You will be amazed
 - What you can achieve
