@@ -1,14 +1,14 @@
 ---?color=#0F2862
 # Augmented Analytics
 
----?color=linear-gradient(180deg, white 50%, #005f6b 50%)
+---?color=linear-gradient(180deg, #ffffff 40%, #005f6b 60%)
 
-@snap[north span-100 font-righteous]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+@snap[north span-100]
+### What is Augmented Analytics?
 @snapend
 
 @snap[south span-100 font-montserrat text-white]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations
 @snapend
 
 
