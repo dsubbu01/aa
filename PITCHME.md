@@ -2,7 +2,7 @@
 
 ---
 
-## What is Augmented Analytics?
+## What is it?
 
 <!--![IMAGE](assets/img/presentation.png)-->
 @snap[south span-100 text-black]
