@@ -2,10 +2,10 @@
 
 ---
 
-## What is it?
+## What is Augmented Analytics?
 
 <!--![IMAGE](assets/img/presentation.png)-->
-@snap[south span-100 text-black text-09]
+@snap[south span-100 text-black text-12]
 A new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations
 @snapend
 
