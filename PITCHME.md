@@ -8,16 +8,13 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize the Layout
+## What is Augmented Analytics?
 @snapend
 
-@snap[east span-50]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
+@snap[east span-50 text-white]
 Augmented Analytics is a new paradigm in the analytics world that uses artificial intelligence, data science, and machine learning to automate data preparation and discovery, with the goal of producing unbiased and optimized recommendations.
 @snapend
+
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
