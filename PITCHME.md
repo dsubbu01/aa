@@ -66,11 +66,11 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 @snap[north-west span-30 text-08]
-@box[bg-gold text-white waved box-padding](Team-Sport # Enables business users handle first-level of processing)
+@box[bg-gold text-white waved box-padding](AI Advancement # Make it an AI based company)
 @snapend
 
 @snap[north span-30 text-08]
-@box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced considerably)
+@box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
 ---?color=linear-gradient(100deg, black 50%, white 50%)
