@@ -11,7 +11,7 @@ What is Augmented Analytics?
 Augmented Analytics is a new paradigm in the analytics world that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 
----?color=linear-gradient(180deg, black 100%)
+---?color=linear-gradient(180deg, black 10%, white 90%)
 
 @snap[north span-90 text-center text-white text-14]
 <b>Typical Data Scientist Activities</b>
