@@ -21,7 +21,7 @@ Why DXC needs to focus on this emerging trend?
 ##### Due to challenges faced by customers in implementing analytic solution...
 @snapend
 
-@snap[south-east span-48 text-04]
+@snap[south-east span-48 text-05]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**
 - Business community is **inundated with huge amount of data** and it is only **getting worse**
 - **Data complexity** is on the rise
