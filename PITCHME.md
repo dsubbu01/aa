@@ -38,11 +38,11 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
   
 ---?color=#FFFFFF
 @snap[midpoint span-30 text-10]
-@box[bg-black text-white rounded box-paddint](Benefits # What's in it for the client?)
+@box[bg-black text-white rounded box-padding](Benefits # What's in it for the client?)
 @snapend
 
 @snap[north-east span-30 text-08]
-@box[bg-green](Data Preparation # Simplified through flexible steps)
+@box[bg-green text-white waved box-padding](Data Preparation # Simplified through flexible steps)
 @snapend
 
 @snap[east span-30 text-08]
