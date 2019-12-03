@@ -15,7 +15,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 
 @snap[midpoint span-90]
 ### Typical Data Scientist Activities
-(assets/img/data-scientist-activities.png)
+![DataScientistActivities](assets/img/data-scientist-activities.png)
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
