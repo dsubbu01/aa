@@ -16,12 +16,12 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snap[north span-90 text-center text-white text-14]
 <b>Typical Data Scientist Activities</b>
 @snapend
-@snap[span-80]
+@snap[midpoint span-90]
 ![DataScientistActivities](assets/img/data-scientist-activities.png)
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@snap[midpoint span-40 text-white text-14]
+@snap[west span-40 text-white text-14]
 <b>Purpose?</b>
 Why DXC needs to focus on this emerging trend?
 @snapend
