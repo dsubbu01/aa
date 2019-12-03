@@ -32,7 +32,7 @@ Why DXC needs to focus on this emerging trend?
 - **Shortage** of expert **data scientists**
 @snapend
 
----?color=linear-gradient(95deg, black 50%, white 50%)
+---?color=linear-gradient(100deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Benefits?
 @snapend
