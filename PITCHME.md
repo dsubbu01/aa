@@ -52,10 +52,10 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 @snap[east span-48 text-05]
-- A **new paradigm** in the analytics world that uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**
-- **Accelerates development** through use of machine-learning to automate data preparation, discover insights, develop, compare, score and refine models, and share insights
-- **Automates** much of the **time-consuming** and **bias prone tasks** and reduces the risk of missing key insights
-- Enables a **business user** play the role of **citizen data scientist**
+- A **new paradigm** in the analytics world that uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
+- **Accelerates development** through use of machine-learning to automate data preparation, discover insights, develop, compare, score and refine models, and share insights<p>
+- **Automates** much of the **time-consuming** and **bias prone tasks** and reduces the risk of missing key insights<p>
+- Enables a **business user** play the role of **citizen data scientist**<p>
 - Currently, in the midst of a disruptive wave that is **evolving rapidly**
 @snapend
 
