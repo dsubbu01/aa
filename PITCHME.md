@@ -46,31 +46,31 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 @snap[east span-30 text-08]
-@box[bg-blue](Data Exploration # Made much easier and intuitive)
+@box[bg-blue text-white waved box-padding](Data Exploration # Made much easier and intuitive)
 @snapend
 
 @snap[south-east span-30 text-08]
-@box[bg-gold](Model Creation # Simplified to enable faster iteration)
+@box[bg-gold text-white waved box-padding](Model Creation # Simplified to enable faster iteration)
 @snapend
 
 @snap[south span-30 text-08]
-@box[bg-yellow](Democratization # Enabled data literacy)
+@box[bg-yellow text-white waved box-padding](Democratization # Enabled data literacy)
 @snapend
 
 @snap[south-west span-30 text-08]
-@box[bg-violet](Self-service # Create Citizen Data Scientists)
+@box[bg-violet text-white waved box-padding](Self-service # Create Citizen Data Scientists)
 @snapend
 
 @snap[west span-30 text-08]
-@box[bg-pink](Business Value # Driven by AI movemement)
+@box[bg-pink text-white waved box-padding](Business Value # Driven by AI movemement)
 @snapend
 
 @snap[north-west span-30 text-08]
-@box[bg-red](Team-Sport # Enables business users handle first-level of processing)
+@box[bg-red text-white waved box-padding](Team-Sport # Enables business users handle first-level of processing)
 @snapend
 
 @snap[north span-30 text-08]
-@box[bg-gold](Time-spent # Reduced)
+@box[bg-gold text-white waved box-padding](Time-spent # Reduced)
 @snapend
 
 ---?color=linear-gradient(100deg, black 50%, white 50%)
