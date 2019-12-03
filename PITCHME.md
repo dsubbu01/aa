@@ -36,6 +36,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 - **Shortage** of expert **data scientists**<p>
 @snapend
   
+---?color=#FFFFFF
 @snap[north span-90 text-center text-black text-14]
 <b>Typical Data Scientist Activities</b>
 @snapend
