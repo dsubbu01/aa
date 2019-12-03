@@ -23,13 +23,10 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 <b>Challenges...</b>
+Data volume and complexity, Time consuming, Manual, Biased and Error prone,...
 @snapend
 
-@snap[north-east span-50 text-center]
-###### Data volume and complexity, Time consuming, Manual, Biased and Error prone,...
-@snapend
-
-@snap[south-east span-48 text-05]
+@snap[east span-48 text-05]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**
 - Business community is **inundated with huge amount of data** and it is only **getting worse**
 - **Data complexity** is on the rise
