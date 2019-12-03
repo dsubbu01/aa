@@ -25,7 +25,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 <b>Challenges...</b>
 @snapend
 
-@snap[east span-48 text-05]
+@snap[east span-55 text-05]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**<p>
 - Business community is **inundated with huge amount of data** and it is only **getting worse**<p>
 - **Data complexity** is on the rise<p>
