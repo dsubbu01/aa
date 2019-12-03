@@ -65,7 +65,11 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @box[bg-gold](Time-spent # Reduced)
 @snapend
 
-@snap[north-east snap-40 text-08]
+@snap[north-west snap-40 text-08]
+@box[bg-gold](Time-spent # Reduced)
+@snapend
+
+@snap[north snap-40 text-08]
 @box[bg-gold](Time-spent # Reduced)
 @snapend
 
