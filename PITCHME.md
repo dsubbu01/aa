@@ -26,7 +26,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 @snap[north-east span-50 text-center]
-##### Data volume and complexity, Time consuming, Manual, Dependency, Biased and Error prone,...
+###### Data volume and complexity, Time consuming, Manual, Dependency, Biased and Error prone,...
 @snapend
 
 @snap[south-east span-48 text-05]
