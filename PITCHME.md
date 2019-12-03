@@ -21,10 +21,10 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@snap[north-west span-20 text-white text-14]
+@snap[north-west span-50 text-white text-14]
 <b>Challenges...</b>
 @snapend
-@snap[south-west span-80 text-white text-09]
+@snap[west span-50 text-white text-09]
 Data volume and complexity, Time consuming, Manual, Biased and Error prone,...
 @snapend
 
