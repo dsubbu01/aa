@@ -39,7 +39,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 ---?color=linear-gradient(180deg, white 50%, black 50%)
 
 @snap[north span-90 text-center text-black]
-#### And, the solution...?
+### And, the solution...?
 @snapend
 
 @snap[south span-90 text-center font-montserrat text-white text-14]
