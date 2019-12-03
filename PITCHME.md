@@ -37,36 +37,36 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
   
 ---?color=#FFFFFF
-@snap[midpoint snap-40 text-white text-08]
-@box[bg-black](Benefits # What is in it for the client?)
+@snap[midpoint snap-40 text-gray text-08]
+@box[bg-black](Benefits # What's in it for the client?)
 @snapend
 
 @snap[north-east snap-40 text-08]
-@box[bg-green](Time-spent # Reduced)
+@box[bg-green](Data Preparation # Simplified through flexible steps)
 @snapend
 
 @snap[east snap-40 text-08]
-@box[bg-green](Time-spent # Reduced)
+@box[bg-blue](Data Exploration # Made much easier and intuitive)
 @snapend
 
 @snap[south-east snap-40 text-08]
-@box[bg-gold](Time-spent # Reduced)
+@box[bg-gold](Model Creation # Simplified to enable faster iteration)
 @snapend
 
 @snap[south snap-40 text-08]
-@box[bg-green](Time-spent # Reduced)
+@box[bg-yellow](Democratization # Enabled data literacy)
 @snapend
 
 @snap[south-west snap-40 text-08]
-@box[bg-gold](Time-spent # Reduced)
+@box[bg-orange](Self-service # Create Citizen Data Scientists)
 @snapend
 
 @snap[west snap-40 text-08]
-@box[bg-gold](Time-spent # Reduced)
+@box[bg-purple](Business Value # Driven by AI movemement)
 @snapend
 
 @snap[north-west snap-40 text-08]
-@box[bg-gold](Time-spent # Reduced)
+@box[bg-red](Team-Sport # Enables business users handle first-level of processing)
 @snapend
 
 @snap[north snap-40 text-08]
