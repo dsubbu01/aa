@@ -35,7 +35,7 @@ Well, for any organization, to go from **raw data to actionable insights** is a 
 <b>Challenges...</b>
 @snapend
 
-@snap[east span-48 font-montserrat font-montserrat text-05]
+@snap[east span-48 font-montserrat text-05]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**<p>
 - Business community is **inundated with huge amount of data** and it is only **getting worse**<p>
 - **Data complexity** is on the rise<p>
@@ -61,7 +61,7 @@ Well, for any organization, to go from **raw data to actionable insights** is a 
 <b>Augmented Analytics as the solution...</b>
 @snapend
 
-@snap[east span-48 text-05]
+@snap[east span-48 font-montserrat text-05]
 - A **new paradigm** in the analytics world that uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerates development** through use of machine-learning to automate data preparation, discover insights, develop, compare, score and refine models, and share insights<p>
 - **Automates** much of the **time-consuming** and **bias prone tasks** and reduces the risk of missing key insights<p>
