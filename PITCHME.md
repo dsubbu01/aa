@@ -18,7 +18,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 @snapend
 
 @snap[south span-90 text-center font-montserrat text-black text-08]
-Well, for any organization, to go from **raw data to actionalble insights** is a long drawn, **time-consuming process**...and, one has to go through a **series of manual steps** that are inherently **prone to error** and could be **biased** to reach the target state...which is **extremely challenging**. Augmented Analytics is well positined to address this challenge
+Well, for any organization, to go from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the target state, one has to go through a **series of manual steps** that could inherently be **biased** or **error-prone** which is **extremely challenging**. Augmented Analytics is well positined to address this challenge
 @snapend
 
 ---?color=#FFFFFF
