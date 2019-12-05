@@ -31,7 +31,7 @@ Well, for any organization, to go from **raw data to actionable insights** is a 
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-50 text-white text-14]
-<b>Challenges...</b>
+Challenges...
 @snapend
 
 @snap[east span-48 font-montserrat text-05]
@@ -48,7 +48,7 @@ Well, for any organization, to go from **raw data to actionable insights** is a 
 ---?color=linear-gradient(180deg, white 50%, black 50%)
 
 @snap[north span-90 text-center text-black text-14]
-<b>And, the solution...?</b>
+And, the solution...?
 @snapend
 
 @snap[south span-90 text-center font-montserrat text-white text-14]
@@ -57,7 +57,7 @@ Well, for any organization, to go from **raw data to actionable insights** is a 
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-50 text-white text-14]
-<b>Augmented Analytics as the solution...</b>
+Augmented Analytics as the solution...
 @snapend
 
 @snap[east span-48 font-montserrat text-05]
