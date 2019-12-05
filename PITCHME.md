@@ -129,7 +129,7 @@ Skill needs?
 ##### What are the skills needed to build this capability?
 @snapend
 
-@snap[east span-48 text-black font-montserrat text-12]
+@snap[east span-48 text-black font-montserrat text-05]
 - Data engineers<p>
 - Citizen data scientists<p>
 - Developer data scientists
