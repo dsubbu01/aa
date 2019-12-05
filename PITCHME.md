@@ -122,11 +122,12 @@ Elevator Pitch
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-48 text-09]
-@box[bg-white text-black rounded box-padding](Skill needs? # <b>What are the skills needed to build this capability?</b>)
+@box[bg-black text-black box-padding](Skill needs? # <b>What are the skills needed to build this capability?</b>)
 @snapend
 
-@snap[east span-48 text-black text-left font-montserrat text-05]
+@snap[north-east span-48 text-black text-left font-montserrat text-05]
 To support the emerging paradigm, more new roles focused around data and AI are to be considered and it is critical to put in place a formal upskilling program to retrain and enhance the skills of existing people who can leverage augmented analytics capabilities, to meet the growing demand... Some of the key roles that need to be looked at are:<p>
+@snap[east span-48 text-black text-left font-montserrat text-05]
 - **Data engineers**: A role with a main focus on curating data for further consumption<p>
 - **Citizen data scientists**: An emerging role to help fill the skills gap<p>
 - **Developer data scientists**: A role with siginificant development effort focused on building ML and AI models to embed into applications
