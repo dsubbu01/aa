@@ -116,7 +116,7 @@ Augmented Analytics as the solution...
   - By 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations
 @snapend
     
-@snap[east span-24 text-white text-center text-12]
+@snap[east span-28 text-white text-center text-14]
 Elevator Pitch
 @snapend
 
