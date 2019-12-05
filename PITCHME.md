@@ -70,7 +70,7 @@ Augmented Analytics as the solution...
 
 ---?color=#000000
 @snap[midpoint span-30 text-09]
-@box[bg-white text-black rounded box-padding text-09](Benefits # <b>What's in it for the Business?</b>)
+@box[bg-white text-black rounded box-padding text-10](Benefits # <b>What's in it for the Business?</b>)
 @snapend
 
 @snap[north-east span-30 text-08]
