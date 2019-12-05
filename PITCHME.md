@@ -117,7 +117,7 @@ Augmented Analytics as the solution...
 @snapend
     
 @snap[east span-24 text-white text-center text-12]
-<b>Elevator Pitch</b>
+Elevator Pitch
 @snapend
 
 ---?color=linear-gradient(80deg, black 50%, white 50%)
