@@ -135,24 +135,8 @@ To support the emerging paradigm, more new roles focused around data and AI are 
 ---?color=linear-gradient(90deg, white 65%, black 35%)
 
 @snap[west span-68 text-left text-black font-montserrat text-05]
-According to Allied Market Research <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a>
-  - the **global** augmented analytics **market size** was valued at **$4,094 million** in **2017** and is projected to reach **$29,856 million by 2025**, growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
-  - Key segments to target:<p>
-    - Industry verticals
-      - Retail
-      - Healthcare & Life Sciences
-      - BFSI
-      - Automotive & Manufacturing
-      - Travel & Transportation
-      - Media & Telecom
-    - Deployment
-      - On-premise
-      - Cloud
-    - Region
-      - Americas
-      - Europe
-      - Asia-Pacific
-      - LAMEA
+Opportunities exist across all geographies and across all industry verticals due to the nature of the problems that the client organizations are attempting to solve. And, the market is ready to be tapped into, according to Allied Market Research <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> that suggests the **global** augmented analytics **market size** was valued at **$4,094 million** in **2017** and is projected to reach **$29,856 million by 2025**, growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
+
 @snapend
     
 @snap[east span-28 text-white text-center text-14]
