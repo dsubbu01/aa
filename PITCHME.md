@@ -62,7 +62,7 @@ Augmented Analytics as the solution...
 
 @snap[east span-48 font-montserrat text-05]
 - Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
-- **Accelerates development** through use of machine-learning to automate data preparation, discover insights, develop, compare, score and refine models, and share insights<p>
+- **Accelerates development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
 - **Automates** much of the **time-consuming** and **bias-prone tasks** and reduces the risk of missing key insights<p>
 - Enables a **business user** play the role of **citizen data scientist**<p>
 - Currently, in the midst of a disruptive wave that is **evolving rapidly**
