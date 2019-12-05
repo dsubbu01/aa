@@ -121,15 +121,19 @@ Elevator Pitch
 
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@snap[west span-48 text-black font-montserrat text-05]
+@snap[west span-48 text-white font-montserrat text-14]
 Skill needs?
 @snapend
 
-@snap[north-east span-48 text-white text-center]
+@snap[north-east span-48 text-black text-center]
 ##### What are the skills needed to build this capability?
 @snapend
 
-
+@snap[west span-48 text-black font-montserrat text-05]
+- Data engineers<p>
+- Citizen data scientists<p>
+- Developer data scientists
+@snapend
 
 ---?color=linear-gradient(80deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
