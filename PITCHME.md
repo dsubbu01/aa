@@ -61,7 +61,7 @@ Augmented Analytics as the solution...
 @snapend
 
 @snap[east span-48 font-montserrat text-05]
-- A **new paradigm** in the analytics world that uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
+- Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerates development** through use of machine-learning to automate data preparation, discover insights, develop, compare, score and refine models, and share insights<p>
 - **Automates** much of the **time-consuming** and **bias-prone tasks** and reduces the risk of missing key insights<p>
 - Enables a **business user** play the role of **citizen data scientist**<p>
