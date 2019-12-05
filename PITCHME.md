@@ -121,9 +121,8 @@ Elevator Pitch
 
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@snap[west span-48 text-white font-montserrat text-14]
-Skill needs?
-What are the skills needed to build this capability?
+@snap[west span-48 text-09]
+@box[bg-white text-black rounded box-padding](Skill needs? # <b>What are the skills needed to build this capability?</b>)
 @snapend
 
 @snap[east span-48 text-black text-left font-montserrat text-05]
