@@ -120,7 +120,7 @@ Elevator Pitch
 @snapend
 
 
----?color=linear-gradient(180deg, black 25%, white 75%)
+---?color=linear-gradient(180deg, black 25%, white 100%)
 @snap[north span-100 text-black font-montserrat text-05]
 Skill needs?
 @snapend
