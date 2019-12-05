@@ -105,15 +105,15 @@ Augmented Analytics as the solution...
 @box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
----?color=linear-gradient(90deg, white 70%, black 30%)
+---?color=linear-gradient(90deg, white 65%, black 35%)
 
 @snap[west span-68 text-center text-black font-montserrat text-05]
-- DXC has many years worth of experience in providing analytics services to its large client base and constantly keeps track of emerging trends around this area<p>
-- DXC's clients trust DXC for their knowledge in this field<p>
+- DXC has many years worth of **experience in providing analytics services** to its large client base and constantly **keeps track of emerging trends around this area**<p>
+- As more organizations digitally transform, they want to expand use of data science and ML/AI and they want to levarage this trend in order to create new differentiated analytic applications, and embed ML/AI into existing applications. However, the scarcity of expert data science skills has become a significant barrier for them. However, based on the track record, these organizations trust DXC in taking them through this journey.
 - According to Gartner<p>
-  - Augmented Analytics is the future of Data Analytics<p>
-  - By 2020, automation of data science tasks will enable citizen data scientists to produce a higher volume of advanced analysis than specialized data scientists<p>
-  - By 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations
+  - Augmented Analytics is the **future of Data Analytics**<p>
+  - **By 2020, automation of data science tasks** will **enable citizen data scientists** to produce a higher volume of advanced analysis than specialized data scientists<p>
+  - **By 2025**, a **scarcity of data scientists** will no longer hinder the adoption of data science and machine learning in organizations
 @snapend
     
 @snap[east span-28 text-white text-center text-14]
