@@ -122,11 +122,11 @@ Elevator Pitch
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-48 text-white font-montserrat text-14]
-**Skill needs?**<p>
+Skill needs?
 What are the skills needed to build this capability?
 @snapend
 
-@snap[east span-48 text-black font-montserrat text-05]
+@snap[east span-48 text-black text-left font-montserrat text-05]
 To support the emerging paradigm, more new roles focused around data and AI are to be considered and it is critical to put in place a formal upskilling program to retrain and enhance the skills of existing people who can leverage augmented analytics capabilities, to meet the growing demand... Some of the key roles that need to be looked at are:<p>
 - **Data engineers**: A role with a main focus on curating data for further consumption<p>
 - **Citizen data scientists**: An emerging role to help fill the skills gap<p>
