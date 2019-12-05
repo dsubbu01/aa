@@ -109,8 +109,9 @@ Augmented Analytics as the solution...
 
 @snap[west span-68 text-center text-black font-montserrat text-05]
 - DXC has many years worth of **experience in providing analytics services** to its large client base and constantly **keeps track of emerging trends around this area**<p>
-- As more organizations digitally transform, they want to expand the use of data science and ML/AI in order to create new differentiated analytic applications, and embed ML/AI into existing applications. However, the scarcity of expert data science skills is a significant challenge to overcome. However, based on the track record, these organizations trust DXC in taking them through this journey.
-- This is a wonderful time for us to tap into our capability to take our clients through this journey to have a win-win proposition
+- As more organizations digitally transform, they want to **expand the use of data science and ML/AI** in order to **create new differentiated analytic applications, and embed ML/AI into existing applications** - however, the **scarcity of expert data science skills** is a **significant challenge** to overcome<p>
+- Based on DXC's proven track record, these **organizations trust DXC in taking them through this journey**<p>
+- This is a wonderful time for us to **tap into our capability** to **take our clients through this journey** to have a **win-win proposition**
 @snapend
     
 @snap[east span-28 text-white text-center text-14]
