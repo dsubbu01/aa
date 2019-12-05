@@ -120,12 +120,12 @@ Elevator Pitch
 @snapend
 
 
----?color=linear-gradient(180deg, black 25%, white 100%)
-@snap[north span-100 text-black font-montserrat text-05]
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@snap[west span-48 text-black font-montserrat text-05]
 Skill needs?
 @snapend
 
-@snap[south span-100 text-white text-center]
+@snap[north-east span-48 text-white text-center]
 ##### What are the skills needed to build this capability?
 @snapend
 
