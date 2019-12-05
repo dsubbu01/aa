@@ -139,7 +139,7 @@ Opportunities exist across **all geographies** and across **all industry vertica
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
   - was valued at **~ $4B** in **2017**<p>
   - is projected to reach **~ $29B by 2025**<p>
-  - and, is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
+  - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
 @snapend
     
 @snap[east span-28 text-white text-center text-14]
