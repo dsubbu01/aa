@@ -159,27 +159,28 @@ Competition...
 What are our competitors doing in this space...
 @snapend
 
-
----?color=linear-gradient(80deg, black 50%, white 50%)
-@snap[west span-40 text-white text-14]
-Expenses
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@snap[west span-50 text-white text-14]
+Expenses...
 @snapend
+
 
 @snap[north-east span-50 text-center]
 ##### Expenses towards buidling this capability?
 @snapend
-@snap[east span-48 text-center text-05]
-What are the expenses that we need to identify, plan for, and track...
+@snap[east span-48 font-montserrat text-05]
+What are the expenses that we need to identify, plan for, and track
 @snapend
 
----?color=linear-gradient(80deg, black 50%, white 50%)
-@snap[west span-40 text-white text-14]
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@snap[west span-50 text-white text-14]
 Commercials (funding)?
 @snapend
+
 
 @snap[north-east span-50 text-center]
 ##### What is the ask from the ORB to build this capability?
 @snapend
-@snap[east span-48 text-center text-05]
+@snap[east span-48 font-montserrat text-05]
 Financial ask to build this capability ...
 @snapend
