@@ -109,7 +109,7 @@ Augmented Analytics as the solution...
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
----?color=linear-gradient(90deg, white 75%, black 25%)
+---?color=linear-gradient(90deg, black 25%, white 75%)
 
 ---?color=linear-gradient(90deg, black 30%, white 70%)
 
