@@ -114,8 +114,12 @@ Elevator Pitch
 ##### Where is our opportunity?
 @snapend
 @snap[east span-48 text-center text-05]
-DXC has many years worth of experience in providing analytics services to its large client base and its clients trust DXC for their knowledge in this area. DXC also keeps track of emerging trends. According to Gartner, *Augmented Analytics is the future of Data Analytics* and indicates that *by 2020, automation of data science tasks will enable citizen data scientists to produce a higher
-volume of advanced analysis than specialized data scientists* and *by 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations*
+- DXC has many years worth of experience in providing analytics services to its large client base and constantly keeps track of emerging trends around this area
+- DXC's clients trust DXC for their knowledge in this field
+- According to Gartner
+  - *Augmented Analytics is the future of Data Analytics*
+  - *By 2020, automation of data science tasks will enable citizen data scientists to produce a higher volume of advanced analysis than specialized data scientists
+  - By 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations*
 @snapend
 
 ---?color=linear-gradient(80deg, black 50%, white 50%)
