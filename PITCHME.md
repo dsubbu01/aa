@@ -105,28 +105,16 @@ Augmented Analytics as the solution...
 @box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
+---?color=linear-gradient(90deg, black 70%, white 30%)
 
-
----?color=linear-gradient(180deg, white 75%, black 25%)
----?color=linear-gradient(180deg, black 75%, white 25%)
----?color=linear-gradient(180deg, white 25%, black 75%)
----?color=linear-gradient(180deg, black 25%, white 75%)
-
----?color=linear-gradient(90deg, white 75%, black 25%)
----?color=linear-gradient(90deg, black 75%, white 25%)
-
----?color=linear-gradient(90deg, black 25%, white 75%)
-@snap[west span-30 text-white text-14]
-Elevator Pitch
-@snapend
 @snap[east span-30 text-white text-14]
 Elevator Pitch
 @snapend
 
-@snap[north-east span-70 white 100% text-center]
+@snap[north-west span-70 white 100% text-center]
 ##### Where is our opportunity?
 @snapend
-@snap[east span-68 text-center text-05]
+@snap[west span-68 text-center text-05]
 - DXC has many years worth of experience in providing analytics services to its large client base and constantly keeps track of emerging trends around this area
 - DXC's clients trust DXC for their knowledge in this field
 - According to Gartner
