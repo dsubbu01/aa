@@ -2,7 +2,7 @@
 # Augmented Analytics
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
-@snap[north span-90 text-center text-blue text-14]
+@snap[north span-90 text-center text-black text-14]
 <b>What is Augmented Analytics?</b>
 @snapend
 
