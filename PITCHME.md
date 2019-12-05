@@ -106,14 +106,14 @@ Augmented Analytics as the solution...
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@snap[west span-40 text-white text-14]
+@snap[west span-30 text-white text-14]
 Elevator Pitch
 @snapend
 
-@snap[north-east span-50 text-center]
+@snap[north-east span-70 text-center]
 ##### Where is our opportunity?
 @snapend
-@snap[east span-48 text-center text-05]
+@snap[east span-68 text-center text-05]
 - DXC has many years worth of experience in providing analytics services to its large client base and constantly keeps track of emerging trends around this area
 - DXC's clients trust DXC for their knowledge in this field
 - According to Gartner
