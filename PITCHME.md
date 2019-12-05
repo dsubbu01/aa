@@ -125,7 +125,7 @@ Elevator Pitch
 Skill needs?
 @snapend
 
-@snap[south span-10 text-center]
+@snap[south span-100 text-center text-white]
 ##### What are the skills needed to build this capability?
 @snapend
 
