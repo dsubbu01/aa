@@ -105,7 +105,7 @@ Augmented Analytics as the solution...
 @box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
----?color=linear-gradient(90deg, black 30%, white 70%)
+---?color=linear-gradient(90deg, black 30%)
 @snap[west span-30 text-white text-14]
 Elevator Pitch
 @snapend
