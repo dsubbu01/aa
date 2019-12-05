@@ -105,18 +105,18 @@ Augmented Analytics as the solution...
 @box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
----?color=linear-gradient(90deg, black 70%, white 30%)
+---?color=linear-gradient(90deg, white 70%, black 30%)
 
-@snap[west span-68 text-center text-white font-montserrat text-05]
+@snap[west span-68 text-center text-black font-montserrat text-05]
 - DXC has many years worth of experience in providing analytics services to its large client base and constantly keeps track of emerging trends around this area<p>
 - DXC's clients trust DXC for their knowledge in this field<p>
 - According to Gartner<p>
-  - *Augmented Analytics is the future of Data Analytics*<p>
-  - *By 2020, automation of data science tasks will enable citizen data scientists to produce a higher volume of advanced analysis than specialized data scientists<p>
-  - By 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations*
+  - Augmented Analytics is the future of Data Analytics<p>
+  - By 2020, automation of data science tasks will enable citizen data scientists to produce a higher volume of advanced analysis than specialized data scientists<p>
+  - By 2025, a scarcity of data scientists will no longer hinder the adoption of data science and machine learning in organizations
 @snapend
     
-@snap[east span-24 text-black text-center text-14]
+@snap[east span-24 text-white text-center text-12]
 <b>Elevator Pitch</b>
 @snapend
 
