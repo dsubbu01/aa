@@ -3,11 +3,11 @@
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
 @snap[north span-90 text-center text-white text-14]
-What is Augmented Analytics?
+What is (and is not) Augmented Analytics?
 @snapend
 
-@snap[south span-90 text-center font-montserrat text-black text-09]
-Augmented Analytics is a new paradigm in the analytics world that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
+@snap[south span-90 text-center font-montserrat text-black text-08]
+Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**<p><p>It supports humans in the decision-making process, not replaces them
 @snapend
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
@@ -129,7 +129,7 @@ What skills are needed to build this capability?
 @snap[east span-48 text-black text-left font-montserrat text-05]
 To support the emerging paradigm, more new roles focused around data and AI are to be considered and it is critical to put in place a formal upskilling program to retrain and enhance the skills of existing people who can leverage augmented analytics capabilities, to meet the growing demand... Some of the key roles that need to be looked at are:<p><p>
 - **Data engineers**: A role with a main focus on curating data for further consumption<p>
-- **Citizen data scientists**: An emerging role to help fill the skills gap<p>
+- **Citizen data scientists**: An emerging role to help fill the skills gap (between a business analyst and data scientist)<p>
 - **Developer data scientists**: A role with siginificant development effort focused on building ML and AI models to embed into applications
 @snapend
 
