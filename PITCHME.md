@@ -16,7 +16,7 @@ Augmented Analytics is a new paradigm in the analytics world that uses **artific
 Why do we need it, though?
 @snapend
 
-@snap[south span-90 text-center font-montserrat text-black text-08]
+@snap[south span-90 text-center font-montserrat text-black text-07]
 Well, for any organization, to go from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the target state, one has to go through a **series** of **manual steps** that could inherently be **biased** or **error-prone** which is **extremely challenging**. Augmented Analytics could be well positined to address this challenge...
 @snapend
 
