@@ -110,7 +110,7 @@ Augmented Analytics as the solution...
 Elevator Pitch
 @snapend
 
-@snap[north-east span-70 text-center]
+@snap[north-east span-70 white 100% text-center]
 ##### Where is our opportunity?
 @snapend
 @snap[east span-68 text-center text-05]
