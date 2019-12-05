@@ -48,7 +48,7 @@ Challenges...
 ---?color=linear-gradient(180deg, white 50%, black 50%)
 
 @snap[north span-90 text-center text-black text-14]
-And, the solution...?
+<b>And, the solution...?</b>
 @snapend
 
 @snap[south span-90 text-center font-montserrat text-white text-14]
