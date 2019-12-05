@@ -105,9 +105,29 @@ Augmented Analytics as the solution...
 @box[bg-pink text-white waved box-padding](Bring in Efficiency # Time spent is reduced)
 @snapend
 
+
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
+
+@snap[west span-50]
+## Customize the Layout
+@snapend
+
+@snap[east span-50]
+![](assets/img/data-scientist-activities.png)
+@snapend
+
+@snap[south span-100 text-white]
+Snap Layouts let you create custom slide designs directly within your markdown.
+@snapend
+
+
 ---?color=linear-gradient(90deg, black 30%, white 70%)
 
 @snap[west span-30 text-white text-14]
+Elevator Pitch
+@snapend
+@snap[east span-30 text-white text-14]
 Elevator Pitch
 @snapend
 
