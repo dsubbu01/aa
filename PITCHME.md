@@ -119,6 +119,18 @@ Augmented Analytics as the solution...
 Elevator Pitch
 @snapend
 
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@snap[north span-100 text-white text-14]
+Skill needs?
+@snapend
+
+@snap[south span-10 text-center]
+##### What are the skills needed to build this capability?
+@snapend
+
+
+
 ---?color=linear-gradient(80deg, black 50%, white 50%)
 @snap[west span-40 text-white text-14]
 Target Market
@@ -154,18 +166,6 @@ Expenses
 @snapend
 @snap[east span-48 text-center text-05]
 What are the expenses that we need to identify, plan for, and track...
-@snapend
-
----?color=linear-gradient(100deg, black 50%, white 50%)
-@snap[west span-40 text-white text-14]
-Skill needs?
-@snapend
-
-@snap[north-east span-50 text-center]
-##### What are the skills needed to build this capability?
-@snapend
-@snap[east span-48 text-center text-05]
-Skill requirements to build and sustain this capability to serve our clients...
 @snapend
 
 ---?color=linear-gradient(80deg, black 50%, white 50%)
