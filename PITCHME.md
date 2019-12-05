@@ -119,7 +119,6 @@ Augmented Analytics as the solution...
 Elevator Pitch
 @snapend
 
-
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-48 text-white text-14]
 Skill needs...<p><p>
@@ -133,17 +132,20 @@ To support the emerging paradigm, more new roles focused around data and AI are 
 - **Developer data scientists**: A role with siginificant development effort focused on building ML and AI models to embed into applications
 @snapend
 
----?color=linear-gradient(80deg, black 50%, white 50%)
-@snap[west span-40 text-white text-14]
+---?color=linear-gradient(90deg, white 65%, black 35%)
+
+@snap[west span-68 text-center text-black font-montserrat text-05]
+- DXC has many years worth of **experience in providing analytics services** to its large client base and constantly **keeps track of emerging trends** around this area<p>
+- As more organizations digitally transform, they look to **expand** the use of **data science** and **ML/AI** in order to **create** new **differentiated analytic applications**, and **embed ML/AI** into **existing applications** - however, the **scarcity** of expert data science **skills** is a significant **challenge** for them to overcome<p>
+- DXC has the capability to **implement Augmented Analytics solution** to overcome the challenges encountered by its clients<p>
+- Based on DXC's proven track record, the **clients trust DXC** in **taking them through this journey**<p>
+- This is a wonderful time for us to **tap into our capability** to **take our clients through this journey** to have a **win-win proposition**
+@snapend
+    
+@snap[east span-28 text-white text-center text-14]
 Target Market
 @snapend
 
-@snap[north-east span-50 text-center]
-##### What is our target market like?
-@snapend
-@snap[east span-48 text-center text-05]
-Target market...
-@snapend
 
 
 ---?color=linear-gradient(100deg, black 50%, white 50%)
