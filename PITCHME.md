@@ -60,20 +60,14 @@ How?
 @snapend
 
 @snap[south span-100 text-center font-montserrat text-black text-08]
-@fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
-<p>&nbsp;</p><p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+@fa[quote-left](How do we address these challenges?)@fa[quote-right]
+- Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
+- **Accelerates development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
+- **Automates** much of the **time-consuming** and **bias-prone tasks** and reduces the risk of missing key insights<p>
+- Enables a **business user** play the role of **citizen data scientist**<p>
+- Currently, in the midst of a disruptive wave that is **evolving rapidly**
 @snapend
 
-
----?color=linear-gradient(180deg, black 30%, white 30%)
-@title[How?]
-@snap[north span-100 text-center text-bold text-white text-18]
-How do we address these challenges?
-@snapend
-
-@snap[midpoint span-95 text-center font-montserrat text-black text-08]
-... is in Augmented Analytics. Let's see how?
-@snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Solution (key elements)...]
