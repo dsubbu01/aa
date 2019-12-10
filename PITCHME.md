@@ -22,7 +22,7 @@ Why?
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-08]
 **Why do we need Augmented Analytics, though?**
-<p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+<p>&nbsp;</p><p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
@@ -50,14 +50,13 @@ Current challenges...
 - **Shortage** of expert **data scientists**<p>
 @snapend
 
-
 ---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[How?]
 @snap[north span-100 text-center text-bold text-white text-18]
 How?
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](How do we address these challenges?)@fa[quote-right]
+**How do we address these challenges?**<p>&nbsp;</p>
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
 - **Automate** much of the **time-consuming** and **bias-prone tasks** while reducing the risk of missing key insights<p>
