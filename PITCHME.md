@@ -229,8 +229,8 @@ Commercials
 @snapend
 
 @snap[north-east span-65 text-left]
-##### What is the ask from the ORB to build this capability?
+##### Financial ask from ORB
 @snapend
 @snap[east span-65 font-montserrat text-left text-05]
-Financial ask to build this capability ...
+What is the financial ask from the ORB to build this capability
 @snapend
