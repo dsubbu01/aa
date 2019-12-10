@@ -151,8 +151,7 @@ Elevator Pitch
 Skill needs...
 @snapend
 @snap[east span-68 text-black text-left font-montserrat text-05]
-@fa[quote-left](What skills are needed to build this capability?)@fa[quote-right]
-<p>&nbsp;</p>
+**What skills are needed to build this capability?**<p>
 To support the emerging paradigm, more new roles focused around data and AI are to be considered and it is critical to put in place a formal upskilling program to retrain and enhance the skills of existing people who can leverage augmented analytics capabilities, to meet the growing demand... Some of the key roles that need to be looked at are:<p><p>
 - **Data engineers**: A role with a main focus on curating data for further consumption<p>
 - **Citizen data scientists**: An emerging role to help fill the skills gap (between a business analyst and data scientist)<p>
