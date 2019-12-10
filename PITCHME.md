@@ -221,12 +221,13 @@ T-Shirt Pricing...
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Funding ...]
+@snap[west span-35 text-white text-left text-12]
 Commercials (funding)...
 @snapend
 
 @snap[north-east span-65 text-left]
 ##### What is the ask from the ORB to build this capability?
 @snapend
-@snap[east span-65 font-montserrat text-lefttext-05]
+@snap[east span-65 font-montserrat text-left text-05]
 Financial ask to build this capability ...
 @snapend
