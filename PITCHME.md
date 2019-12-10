@@ -68,20 +68,6 @@ How?
 @snapend
 
 
----?color=linear-gradient(90deg, black 50%, white 50%)
-@title[&nbsp;&nbsp;&nbsp;&nbsp;> Solution (key elements)...]
-@snap[west span-50 text-white text-14]
-Augmented Analytics as the solution...
-@snapend
-
-@snap[east span-48 font-montserrat text-05]
-- Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
-- **Accelerates development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
-- **Automates** much of the **time-consuming** and **bias-prone tasks** and reduces the risk of missing key insights<p>
-- Enables a **business user** play the role of **citizen data scientist**<p>
-- Currently, in the midst of a disruptive wave that is **evolving rapidly**
-@snapend
-
 ---?color=#000000
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Business benefits...]
 @snap[midpoint span-30 text-09]
