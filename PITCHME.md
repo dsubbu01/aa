@@ -59,13 +59,12 @@ Challenges...
 How?
 @snapend
 
-@snap[south span-100 text-center font-montserrat text-black text-07]
+@snap[south span-100 text-center font-montserrat text-black text-08]
 @fa[quote-left](How do we address these challenges?)@fa[quote-right]
-- Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
-- **Accelerates development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
-- **Automates** much of the **time-consuming** and **bias-prone tasks** and reduces the risk of missing key insights<p>
-- Enables a **business user** play the role of **citizen data scientist**<p>
-- Currently, in the midst of a disruptive wave that is **evolving rapidly**
+- Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
+- **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
+- **Automate** much of the **time-consuming** and **bias-prone tasks** while reducing the risk of missing key insights<p>
+- Enable a **business user** to play the role of **citizen data scientist**<p>
 @snapend
 
 
