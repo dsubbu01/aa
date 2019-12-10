@@ -11,7 +11,7 @@ What?
 @snap[south span-98 text-center font-montserrat text-black text-07]
 @fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
 Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
-@fa[quote-left](Augmented Analytics **supports humans** in the **decision-making process**, and **does not replace** them)@fa[quote-right]
+<p>@fa[quote-left](Augmented Analytics supports humans in the decision-making process, and does not replace them)@fa[quote-right]
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
