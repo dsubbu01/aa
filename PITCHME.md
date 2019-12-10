@@ -52,11 +52,11 @@ Challenges...
   
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Solution...]
-@snap[north span-90 text-center text-bold text-white text-18]
+@snap[north span-100 text-center text-bold text-white text-18]
 And, the solution...?
 @snapend
 
-@snap[midpoint span-90 text-center font-montserrat text-black text-08]
+@snap[south span-95 text-center font-montserrat text-black text-08]
 ... is in Augmented Analytics. Let's see how?
 @snapend
 
