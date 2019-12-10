@@ -221,8 +221,9 @@ T-Shirt Pricing...
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Funding ...]
-@snap[west span-35 text-white text-left text-12]
-Commercials (funding)...
+@snap[west span-35 text-white text-left text-11]
+Commercials
+(funding)...
 @snapend
 
 @snap[north-east span-65 text-left]
