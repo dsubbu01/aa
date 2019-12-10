@@ -15,7 +15,7 @@ Augmented Analytics is a new approach to problem solving that uses **artificial 
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Why Augmented Analytics?]
-@snap[north span-90 text-center text-bold text-white text-18]
+@snap[north span-90 text-center text-bold text-white text-16]
 Why?<p>
 @fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
 @snapend
