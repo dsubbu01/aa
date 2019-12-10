@@ -25,7 +25,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[...Data Scientist Activities]
+@title[    - Data Scientist Activities]
 @snap[north span-100 text-center text-bold text-white text-18]
 Typical Data Scientist Activities
 @snapend
@@ -34,7 +34,7 @@ Typical Data Scientist Activities
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@title[Challenges...]
+@title[    - Challenges...]
 @snap[west span-50 text-white text-14]
 Challenges...
 @snapend
@@ -51,17 +51,17 @@ Challenges...
 @snapend
   
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[Solution...]
+@title[    - Solution...]
 @snap[north span-100 text-center text-bold text-white text-18]
 And, the solution...?
 @snapend
 
-@snap[south span-95 text-center font-montserrat text-black text-08]
+@snap[midpoint span-95 text-center font-montserrat text-black text-08]
 ... is in Augmented Analytics. Let's see how?
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
-@title[Solution explained...]
+@title[    - Solution (key elements)...]
 @snap[west span-50 text-white text-14]
 Augmented Analytics as the solution...
 @snapend
@@ -75,7 +75,7 @@ Augmented Analytics as the solution...
 @snapend
 
 ---?color=#000000
-@title[Business benefits...]
+@title[    - Business benefits...]
 @snap[midpoint span-30 text-09]
 @box[bg-white text-black rounded box-padding](Benefits # <b>What's in it for the Business?</b>)
 @snapend
