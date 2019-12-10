@@ -3,6 +3,7 @@
 # Augmented Analytics
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
+@title[What is Augmented Analytics?]
 @snap[north span-90 text-center text-white text-14]
 What is (and is not) Augmented Analytics?
 @snapend
@@ -24,6 +25,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 ---?color=#FFFFFF
 
 @snap[north span-90 text-center text-black text-14]
+@title[Typical Data Scientist Activities]
 <b>Typical Data Scientist Activities</b>
 @snapend
 @snap[midpoint span-100]
@@ -31,6 +33,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Challenges...]
 @snap[west span-50 text-white text-14]
 Challenges...
 @snapend
@@ -47,7 +50,7 @@ Challenges...
 @snapend
   
 ---?color=linear-gradient(180deg, white 50%, black 50%)
-
+@title[Solution...]
 @snap[north span-90 text-center text-black text-14]
 <b>And, the solution...?</b>
 @snapend
@@ -57,6 +60,7 @@ Challenges...
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Solution explained...]
 @snap[west span-50 text-white text-14]
 Augmented Analytics as the solution...
 @snapend
@@ -70,6 +74,7 @@ Augmented Analytics as the solution...
 @snapend
 
 ---?color=#000000
+@title[Business benefits...]
 @snap[midpoint span-30 text-09]
 @box[bg-white text-black rounded box-padding](Benefits # <b>What's in it for the Business?</b>)
 @snapend
@@ -107,7 +112,7 @@ Augmented Analytics as the solution...
 @snapend
 
 ---?color=linear-gradient(90deg, white 65%, black 35%)
-
+@title[Elevator pitch...]
 @snap[west span-68 text-center text-black font-montserrat text-05]
 - DXC has many years worth of **experience in providing analytics services** to its large client base and constantly **keeps track of emerging trends** around this area<p>
 - As more organizations digitally transform, they look to **expand** the use of **data science** and **ML/AI** in order to **create** new **differentiated analytic applications**, and **embed ML/AI** into **existing applications** - however, the **scarcity** of expert data science **skills** is a significant **challenge** for them to overcome<p>
@@ -121,6 +126,7 @@ Elevator Pitch
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Skills ...]
 @snap[west span-48 text-white text-14]
 Skill needs...<p><p>
 What skills are needed to build this capability?
@@ -134,7 +140,7 @@ To support the emerging paradigm, more new roles focused around data and AI are 
 @snapend
 
 ---?color=linear-gradient(90deg, white 65%, black 35%)
-
+@title[Target market ...]
 @snap[west span-68 text-left text-black font-montserrat text-06]
 Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
@@ -148,6 +154,7 @@ Target Market
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Competition ...]
 @snap[west span-50 text-white text-14]
 Competition...
 @snapend
@@ -161,6 +168,7 @@ What are our competitors doing in this space...
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Expenses ...]
 @snap[west span-50 text-white text-14]
 Expenses...
 @snapend
@@ -174,6 +182,7 @@ What are the expenses that we need to identify, plan for, and track
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Pricing ...]
 @snap[west span-50 text-white text-14]
 Pricing...
 @snapend
@@ -186,6 +195,7 @@ T-Shirt Pricing...
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
+@title[Funding ...]
 @snap[west span-50 text-white text-14]
 Commercials (funding)?
 @snapend
