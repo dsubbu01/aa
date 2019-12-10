@@ -2,7 +2,7 @@
 @title[Augmented Analytics?]
 # Augmented Analytics
 
----?color=linear-gradient(180deg, black 25%, white 25%)
+---?color=linear-gradient(180deg, black 35%, white 35%)
 @title[What is Augmented Analytics?]
 @snap[north span-15 text-center text-white text-14]
 What is (and is not) Augmented Analytics?
