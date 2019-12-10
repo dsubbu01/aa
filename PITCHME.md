@@ -8,7 +8,7 @@
 What?
 @snapend
 @snap[midpoint span-100 text-center font-montserrat text-black text-08]
-@fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
+What is, and is not, Augmented Analytics?
 <p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
