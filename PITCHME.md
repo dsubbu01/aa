@@ -59,7 +59,7 @@ Challenges...
 How?
 @snapend
 
-@snap[south span-100 text-center font-montserrat text-black text-08]
+@snap[south span-100 text-center font-montserrat text-black text-05]
 @fa[quote-left](How do we address these challenges?)@fa[quote-right]
 - Uses **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerates development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
