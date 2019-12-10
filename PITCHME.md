@@ -151,7 +151,7 @@ Elevator Pitch
 Skill needs...
 @snapend
 @snap[north-east span-68 text-left]
-###### What skills are needed to build this capability?
+####### What skills are needed to build this capability?
 @snapend
 
 @snap[east span-68 text-black text-left font-montserrat text-05]
