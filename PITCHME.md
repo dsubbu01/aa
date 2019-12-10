@@ -114,7 +114,7 @@ Augmented Analytics as the solution...
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Elevator pitch...]
-@snap[west span-28 text-white text-center text-14]
+@snap[west span-30 text-white text-left text-14]
 Elevator Pitch
 @snapend
 
