@@ -67,9 +67,20 @@ How?
 - Enable a **business user** to play the role of **citizen data scientist**<p>
 @snapend
 
+---?color=linear-gradient(180deg, black 25%, white 25%)
+@title[Where?]
+@snap[north span-100 text-center text-bold text-white text-18]
+Where?
+@snapend
+@snap[midpoint span-100 text-center font-montserrat text-black text-08]
+@fa[quote-left](From where will we deliver these services?)@fa[quote-right]
+<p>&nbsp;</p>List of locations where the skillset is available (to be filled in)
+@snapend
+
+
 
 ---?color=#000000
-@title[&nbsp;&nbsp;&nbsp;&nbsp;> Business benefits...]
+@title[Business benefits...]
 @snap[midpoint span-30 text-09]
 @box[bg-white text-black rounded box-padding](Benefits # <b>What's in it for the Business?</b>)
 @snapend
