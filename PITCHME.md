@@ -181,7 +181,7 @@ Pricing...
 ##### Pricing
 @snapend
 @snap[east span-48 font-montserrat text-05]
-Pricing
+T-Shirt Pricing...
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
