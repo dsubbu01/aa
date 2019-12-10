@@ -56,7 +56,7 @@ Current challenges...
 How?
 @snapend
 @snap[south span-100 text-left font-montserrat text-black text-07]
-**How do we address these challenges?**<p>
+**How do we address these challenges?**<p><p>
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
 - **Automate** much of the **time-consuming** and **bias-prone tasks** while reducing the risk of missing key insights<p>
