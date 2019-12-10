@@ -181,10 +181,14 @@ According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics
 @snap[west span-30 text-white text-left text-12]
 Competition...
 @snapend
-@snap[east span-68 text-left text-black font-montserrat text-05]
-@fa[quote-left](What are our competitors doing in this space...?)@fa[quote-right]
-<p>&nbsp;</p>Competition landscape (to be filled in)
+
+@snap[north-east span-68 text-center]
+##### What are our competitors doing in this space...?
 @snapend
+@snap[east span-68 font-montserrat text-05]
+Competition landscape (to be filled in)
+@snapend
+
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @title[Expenses ...]
