@@ -23,7 +23,7 @@ Why?
 
 @snap[south span-100 text-center font-montserrat text-black text-08]
 @fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
-<p>&nbsp;</p>Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+<p>&nbsp;</p><p>&nbsp;</p>Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
