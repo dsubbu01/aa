@@ -56,7 +56,7 @@ Current challenges...
 How?
 @snapend
 @snap[south span-100 text-left font-montserrat text-black text-07]
-**How do we address these challenges?**<p><p>
+**How do we address these challenges?**<p>
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
 - **Automate** much of the **time-consuming** and **bias-prone tasks** while reducing the risk of missing key insights<p>
@@ -68,9 +68,9 @@ How?
 @snap[north span-100 text-center text-bold text-white text-18]
 When?
 @snapend
-@snap[midpoint span-100 text-center font-montserrat text-black text-08]
-@fa[quote-left](When will DXC be ready to provide these services to clients?)@fa[quote-right]
-<p>&nbsp;</p>Skillset readiness to offer these services to customers (to be filled in)
+@snap[midpoint span-100 text-left font-montserrat text-black text-08]
+**When will DXC be ready to provide these services to clients?**<p>
+DXC's skillset readiness to offer these services to customers (to be filled in)
 @snapend
 
 ---?color=linear-gradient(180deg, black 25%, white 25%)
@@ -78,9 +78,9 @@ When?
 @snap[north span-100 text-center text-bold text-white text-18]
 Where?
 @snapend
-@snap[midpoint span-100 text-center font-montserrat text-black text-08]
-@fa[quote-left](From where will we deliver these services?)@fa[quote-right]
-<p>&nbsp;</p>List of locations where the skillset is available (to be filled in)
+@snap[midpoint span-100 text-left font-montserrat text-black text-08]
+**From where will we deliver these services?**<p>
+List of DXC locations where the identified skill set is available (to be filled in)
 @snapend
 
 ---?color=linear-gradient(180deg, black 25%, white 25%)
@@ -88,9 +88,8 @@ Where?
 @snap[north span-100 text-center text-bold text-white text-18]
 Who?
 @snapend
-@snap[midpoint span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](Who is the target audience for these DXC services?)@fa[quote-right]
-<p>&nbsp;</p>
+@snap[midpoint span-100 text-left font-montserrat text-black text-07]
+**Who is the target audience for these DXC services?**<p>
 - Potential application of augmented analytics solution is very wide
 - The solutions could be applied for use cases widely across multiple industries and across various regions
 @snapend
