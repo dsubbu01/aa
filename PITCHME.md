@@ -10,11 +10,11 @@ What?
 
 @snap[midpoint span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
-<p>&nbsp;</p><p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
+<p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](Supports humans in the decision-making process, and does not replace them)@fa[quote-right]
+@fa[quote-left](Supports humans in the decision-making process & does not replace them)@fa[quote-right]
 @snapend
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Why?]
