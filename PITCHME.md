@@ -87,6 +87,19 @@ Where?
 <p>&nbsp;</p>List of locations where the skillset is available (to be filled in)
 @snapend
 
+---?color=linear-gradient(180deg, black 25%, white 25%)
+@title[Who?]
+@snap[north span-100 text-center text-bold text-white text-18]
+Who?
+@snapend
+@snap[midpoint span-100 text-center font-montserrat text-black text-08]
+@fa[quote-left](Who is the target audience for these DXC services?)@fa[quote-right]
+<p>&nbsp;</p>
+- Augmented analytics solution could be applied widely across multiple industries and across various regions:
+  * Regions (Americas, Europe, APAC, etc.)
+  * Industries (Retail, Healthcare and Life Sciences, BFSI, Telecom, Automotive and Manufacturing, Travel and Transportation, etc.)
+@snapend
+
 
 ---?color=#000000
 @title[Business benefits...]
