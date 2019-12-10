@@ -3,7 +3,7 @@
 # Augmented Analytics
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[What is Augmented Analytics?]
+@title[What?]
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
 @snapend
@@ -14,7 +14,7 @@ Augmented Analytics is a new approach to problem solving that uses **artificial 
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[Why Augmented Analytics?]
+@title[Why?]
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
 @snapend
@@ -25,7 +25,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[Data Scientist Activities]
+@title[...Data Scientist Activities]
 @snap[north span-100 text-center text-bold text-white text-18]
 Typical Data Scientist Activities
 @snapend
