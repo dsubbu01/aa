@@ -176,7 +176,7 @@ To support the emerging paradigm, more new roles focused around data and AI are 
 Target Market
 @snapend
 
-@snap[east span-68 text-center text-black font-montserrat text-05]
+@snap[east span-68 text-left text-black font-montserrat text-05]
 Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
   - was valued at **~ $4B** in **2017**<p>
