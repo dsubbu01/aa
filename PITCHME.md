@@ -92,12 +92,11 @@ Where?
 @snap[north span-100 text-center text-bold text-white text-18]
 Who?
 @snapend
-@snap[midpoint span-100 text-center font-montserrat text-black text-08]
+@snap[midpoint span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](Who is the target audience for these DXC services?)@fa[quote-right]
 <p>&nbsp;</p>
-- Augmented analytics solution could be applied widely across multiple industries and across various regions:
-  * Regions (Americas, Europe, APAC, etc.)
-  * Industries (Retail, Healthcare and Life Sciences, BFSI, Telecom, Automotive and Manufacturing, Travel and Transportation, etc.)
+- Potential application of augmented analytics solution is very wide
+- The solutions could be applied for use cases widely across multiple industries and across various regions
 @snapend
 
 
