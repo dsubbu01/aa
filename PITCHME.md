@@ -136,7 +136,7 @@ Who?
 
 ---?color=linear-gradient(90deg, black 40%, white 40%)
 @title[Elevator pitch...]
-@snap[west span-38 text-white text-left text-14]
+@snap[west span-35 text-white text-left text-14]
 Elevator Pitch
 @snapend
 @snap[east span-58 text-center text-black font-montserrat text-05]
