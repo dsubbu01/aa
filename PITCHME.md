@@ -178,14 +178,14 @@ According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Competition...]
-@snap[west span-34 text-white text-left text-12]
+@snap[west span-35 text-white text-left text-12]
 Competition...
 @snapend
 
-@snap[north-east span-68 text-center]
+@snap[north-east span-69 text-center]
 ##### What are our competitors doing in this space...?
 @snapend
-@snap[east span-68 font-montserrat text-05]
+@snap[east span-73 font-montserrat text-left text-05]
 Competition landscape (to be filled in)
 @snapend
 
