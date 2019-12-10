@@ -7,7 +7,7 @@
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
 @snapend
-@snap[midpoint span-100 text-center font-montserrat text-black text-09]
+@snap[midpoint span-100 text-center font-montserrat text-black text-08]
 @fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
 <p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
@@ -21,7 +21,7 @@ What?
 Why?
 @snapend
 
-@snap[south span-100 text-center font-montserrat text-black text-09]
+@snap[south span-100 text-center font-montserrat text-black text-08]
 @fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
 <p>&nbsp;</p>Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
 @snapend
