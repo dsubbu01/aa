@@ -25,7 +25,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[&nbsp;&nbsp;&nbsp;&nbsp;- Data Scientist Activities]
+@title[&nbsp;&nbsp;&nbsp;&nbsp;>> Data Scientist Activities]
 @snap[north span-100 text-center text-bold text-white text-18]
 Typical Data Scientist Activities
 @snapend
