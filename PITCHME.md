@@ -29,7 +29,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 @title[Data Scientist Activities]
 <b>Typical Data Scientist Activities</b>
 @snapend
-@snap[midpoint span-100]
+@snap[south span-100]
 ![DataScientistActivities](assets/img/data-scientist-activities.png)
 @snapend
 
