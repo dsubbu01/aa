@@ -14,7 +14,7 @@ What?
 @snapend
 
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](Supports humans in the decision-making process and does not replace them)@fa[quote-right]
+@fa[quote-left](It supports humans in the decision-making process - does not replace them)@fa[quote-right]
 @snapend
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Why?]
