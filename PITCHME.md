@@ -174,7 +174,7 @@ What are the expenses that we need to identify, plan for, and track
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @snap[west span-50 text-white text-14]
-Commercials (funding)?
+Pricing...
 @snapend
 
 @snap[north-east span-50 text-center]
