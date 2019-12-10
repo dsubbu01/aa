@@ -24,7 +24,7 @@ Why?
 Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge. Augmented Analytics could be well positined to address this challenge through automation...
 @snapend
 
----?color=linear-gradient(180deg, white 30%, white 30%)
+---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Data Scientist Activities]
 @snap[north span-100 text-center text-bold text-white text-18]
 Typical Data Scientist Activities
