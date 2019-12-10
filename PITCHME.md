@@ -180,7 +180,7 @@ Pricing...
 @snap[north-east span-50 text-center]
 ##### Pricing
 @snapend
-@snap[east span-48 text-left font-montserrat text-05]
+@snap[east span-48 text-center font-montserrat text-05]
 T-Shirt Pricing...
 @snapend
 
