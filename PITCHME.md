@@ -2,7 +2,7 @@
 @title[Augmented Analytics?]
 # Augmented Analytics
 
----?color=linear-gradient(180deg, black 35%, white 35%)
+---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[What is Augmented Analytics?]
 @snap[north span-90 text-center text-white text-14]
 What?
@@ -13,13 +13,14 @@ What?
 Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**<p><p>It **supports humans** in the **decision-making process**, and **does not replace** them
 @snapend
 
----?color=linear-gradient(180deg, black 35%, white 35%)
+---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[Why Augmented Analytics?]
 @snap[north span-90 text-center text-white text-14]
-Why do we need it, though?
+Why?
 @snapend
 
 @snap[south span-98 text-center font-montserrat text-black text-08]
+@fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
 Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge. Augmented Analytics could be well positined to address this challenge through automation...
 @snapend
 
