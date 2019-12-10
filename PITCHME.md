@@ -25,7 +25,7 @@ Well, many organizations have been using or have implemented analytic solutions 
 ---?color=#FFFFFF
 
 @snap[north span-90 text-center text-black text-14]
-@title[Typical Data Scientist Activities]
+@title[Data Scientist Activities]
 <b>Typical Data Scientist Activities</b>
 @snapend
 @snap[midpoint span-100]
