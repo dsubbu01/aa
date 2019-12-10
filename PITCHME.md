@@ -186,17 +186,16 @@ Competition...
 Competition landscape (to be filled in)
 @snapend
 
-
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Expenses ...]
 @snap[west span-35 text-white text-left text-12]
 Expenses...
 @snapend
 
-@snap[north-east span-50 text-center]
+@snap[north-east span-69 text-center]
 ##### Expenses towards buidling this capability?
 @snapend
-@snap[east span-48 font-montserrat text-left text-05]
+@snap[east span-69 font-montserrat text-left text-05]
 What are the expenses that we need to identify, plan for, and track
 @snapend
 
