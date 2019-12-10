@@ -70,11 +70,10 @@ When?
 @snapend
 @snap[midpoint span-100 text-left font-montserrat text-black text-08]
 **When will DXC be ready to provide these services to clients?**<p>
-DXC's skillset readiness to offer these services to customers (to be filled in)
+DXC's skillset readiness to offer these services to customers...
 @snapend
-
 @snap[south-east span-30 text-08]
-@box[bg-green text-black rounded box-padding](Readiness # To be filled in)
+@box[bg-green text-white rounded box-padding](Readiness # To be filled in)
 @snapend
 
 ---?color=linear-gradient(180deg, black 25%, white 25%)
@@ -84,9 +83,12 @@ Where?
 @snapend
 @snap[midpoint span-100 text-left font-montserrat text-black text-08]
 **From where will we deliver these services?**<p>
-List of DXC locations where the identified skill set is available (to be filled in)
+List of DXC locations where the identified skill set is available...
 @snapend
-
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Locations # To be filled in)
+@snapend
+  
 ---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[Who?]
 @snap[north span-100 text-center text-bold text-white text-18]
@@ -190,7 +192,9 @@ Competition...
 @snapend
 @snap[east span-65 font-montserrat text-left text-05]
 What are our competitors doing in this space?
-(to be filled in)
+@snapend
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Competition # To be filled in)
 @snapend
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
@@ -211,6 +215,9 @@ What are the expenses that needs to be...
   - long term
 - tracked
 @snapend
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Expenses # To be filled in)
+@snapend
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Pricing ...]
@@ -224,6 +231,9 @@ Pricing...
 @snap[east span-65 text-left font-montserrat text-05]
 T-Shirt Pricing...
 @snapend
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Pricing # To be filled in)
+@snapend
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Funding ...]
@@ -231,10 +241,12 @@ T-Shirt Pricing...
 Commercials
 (funding)...
 @snapend
-
 @snap[north-east span-65 text-left]
 ##### Financial ask from ORB
 @snapend
 @snap[east span-65 font-montserrat text-left text-05]
 What is the financial ask from the ORB to build this capability
+@snapend
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Financial ask # To be filled in)
 @snapend
