@@ -6,6 +6,7 @@
 @title[What?]
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
+@fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
 @snapend
 
 @snap[midpoint span-100 text-center font-montserrat text-black text-07]
