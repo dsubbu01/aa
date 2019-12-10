@@ -8,7 +8,7 @@
 What?
 @snapend
 @snap[midpoint span-100 text-center font-montserrat text-black text-08]
-**What is, and is not, Augmented Analytics?**
+**What is (and is not) Augmented Analytics?**
 <p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
@@ -22,7 +22,7 @@ Why?
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-08]
 **Why do we need Augmented Analytics, though?**
-<p>&nbsp;</p><p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+<p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.<p>&nbsp;</p>
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
@@ -56,7 +56,7 @@ Current challenges...
 How?
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
-**How do we address these challenges?**<p>&nbsp;</p>
+**How do we address these challenges?**<p>&nbsp;</p><p>&nbsp;</p>
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
 - **Automate** much of the **time-consuming** and **bias-prone tasks** while reducing the risk of missing key insights<p>
