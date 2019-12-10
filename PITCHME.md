@@ -77,7 +77,15 @@ Where?
 <p>&nbsp;</p>List of locations where the skillset is available (to be filled in)
 @snapend
 
-
+---?color=linear-gradient(180deg, black 25%, white 25%)
+@title[When?]
+@snap[north span-100 text-center text-bold text-white text-18]
+When?
+@snapend
+@snap[midpoint span-100 text-center font-montserrat text-black text-08]
+@fa[quote-left](DXC's readiness to provide these services to clients?)@fa[quote-right]
+<p>&nbsp;</p>Skillset readiness to offer these services to customers (to be filled in)
+@snapend
 
 ---?color=#000000
 @title[Business benefits...]
