@@ -1,5 +1,5 @@
 ---?color=#000000
-
+@title[Augmented Analytics?]
 # Augmented Analytics
 
 ---?color=linear-gradient(180deg, black 50%, white 50%)
