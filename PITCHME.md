@@ -20,7 +20,6 @@ What?
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
 @snapend
-
 @snap[south span-100 text-center font-montserrat text-black text-08]
 @fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
 <p>&nbsp;</p><p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
@@ -38,9 +37,8 @@ Typical Data Scientist Activities
 ---?color=linear-gradient(90deg, black 50%, white 50%)
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Challenges...]
 @snap[west span-50 text-white text-14]
-Challenges...
+Current challenges...
 @snapend
-
 @snap[east span-48 font-montserrat text-05]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**<p>
 - Business community is **inundated with huge amount of data** and it is only **getting worse**<p>
@@ -58,7 +56,6 @@ Challenges...
 @snap[north span-100 text-center text-bold text-white text-18]
 How?
 @snapend
-
 @snap[south span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](How do we address these challenges?)@fa[quote-right]
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
@@ -98,7 +95,6 @@ Who?
 - Potential application of augmented analytics solution is very wide
 - The solutions could be applied for use cases widely across multiple industries and across various regions
 @snapend
-
 
 ---?color=#000000
 @title[Business benefits...]
@@ -143,7 +139,6 @@ Who?
 @snap[west span-30 text-white text-left text-14]
 Elevator Pitch
 @snapend
-
 @snap[east span-68 text-center text-black font-montserrat text-05]
 - DXC has many years worth of **experience in providing analytics services** to its large client base and constantly **keeps track of emerging trends** around this area<p>
 - As more organizations digitally transform, they look to **expand** the use of **data science** and **ML/AI** in order to **create** new **differentiated analytic applications**, and **embed ML/AI** into **existing applications** - however, the **scarcity** of expert data science **skills** is a significant **challenge** for them to overcome<p>
@@ -157,7 +152,6 @@ Elevator Pitch
 @snap[west span-30 text-white text-14]
 Skill needs...
 @snapend
-
 @snap[east span-68 text-black text-left font-montserrat text-05]
 @fa[quote-left](What skills are needed to build this capability?)@fa[quote-right]
 <p>&nbsp;</p>
@@ -180,18 +174,16 @@ According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics
   - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
 @snapend
 
----?color=linear-gradient(90deg, black 50%, white 50%)
-@title[Competition ...]
-@snap[west span-50 text-white text-14]
+
+
+---?color=linear-gradient(90deg, black 35%, white 35%)
+@title[Competition...]
+@snap[west span-30 text-white text-left text-14]
 Competition...
 @snapend
-
-
-@snap[north-east span-50 text-center]
-##### Our Competition?
-@snapend
-@snap[east span-48 font-montserrat text-05]
-What are our competitors doing in this space...
+@snap[east span-68 text-left text-black font-montserrat text-05]
+@fa[quote-left](What are our competitors doing in this space...?)@fa[quote-right]
+Competition landscape (to be filled in)
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
