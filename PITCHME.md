@@ -50,13 +50,13 @@ Challenges...
 - **Shortage** of expert **data scientists**<p>
 @snapend
   
----?color=linear-gradient(180deg, white 50%, black 50%)
+---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Solution...]
-@snap[north span-90 text-center text-black text-14]
+@snap[north span-90 text-center text-bold text-white text-18]
 <b>And, the solution...?</b>
 @snapend
 
-@snap[south span-90 text-center font-montserrat text-white text-14]
+@snap[south span-90 text-center font-montserrat text-black text-08]
 ... is in Augmented Analytics. Let's see how?
 @snapend
 
