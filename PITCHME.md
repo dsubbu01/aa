@@ -178,7 +178,7 @@ According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics
 
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Competition...]
-@snap[west span-30 text-white text-left text-12]
+@snap[west span-34 text-white text-left text-12]
 Competition...
 @snapend
 
