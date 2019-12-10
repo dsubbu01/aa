@@ -152,53 +152,32 @@ Elevator Pitch
 - This is a wonderful time for us to **tap into our capability** to **take our clients through this journey** to have a **win-win proposition**
 @snapend
 
----?color=linear-gradient(90deg, black 50%, white 50%)
+---?color=linear-gradient(90deg, black 30%, white 30%)
 @title[Skills ...]
-@snap[west span-48 text-white text-14]
-Skill needs...<p><p>
-What skills are needed to build this capability?
+@snap[west span-30 text-white text-14]
+Skill needs...
 @snapend
 
 @snap[east span-48 text-black text-left font-montserrat text-05]
+@fa[quote-left](What skills are needed to build this capability?)@fa[quote-right]
+<p>&nbsp;</p>
 To support the emerging paradigm, more new roles focused around data and AI are to be considered and it is critical to put in place a formal upskilling program to retrain and enhance the skills of existing people who can leverage augmented analytics capabilities, to meet the growing demand... Some of the key roles that need to be looked at are:<p><p>
 - **Data engineers**: A role with a main focus on curating data for further consumption<p>
 - **Citizen data scientists**: An emerging role to help fill the skills gap (between a business analyst and data scientist)<p>
 - **Developer data scientists**: A role with siginificant development effort focused on building ML and AI models to embed into applications
 @snapend
 
-
-
-
-
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Target market...]
 @snap[west span-30 text-white text-left text-14]
 Target Market
 @snapend
-
 @snap[east span-68 text-left text-black font-montserrat text-05]
 Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
   - was valued at **~ $4B** in **2017**<p>
   - is projected to reach **~ $29B by 2025**<p>
   - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
-@snapend
-  
-  
-  
-  
----?color=linear-gradient(90deg, white 65%, black 35%)
-@title[Target market ...]
-@snap[west span-68 text-left text-black font-montserrat text-06]
-Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
-According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
-  - was valued at **~ $4B** in **2017**<p>
-  - is projected to reach **~ $29B by 2025**<p>
-  - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
-@snapend
-    
-@snap[east span-28 text-white text-center text-14]
-Target Market
 @snapend
 
 ---?color=linear-gradient(90deg, black 50%, white 50%)
