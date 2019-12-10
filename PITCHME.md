@@ -73,8 +73,8 @@ When?
 DXC's skillset readiness to offer these services to customers (to be filled in)
 @snapend
 
-@snap[south-east span-30 text-gold text-06]
-@box[bg-black rounded box-padding](Readiness # To be filled in)
+@snap[south-east span-30 text-08]
+@box[bg-green text-white rounded box-padding](Readiness # To be filled in)
 @snapend
 
 ---?color=linear-gradient(180deg, black 25%, white 25%)
