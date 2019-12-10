@@ -7,25 +7,27 @@
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
 @snapend
-
 @snap[midpoint span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](What is, and is not, Augmented Analytics?)@fa[quote-right]
 <p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
-
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](It supports humans in the decision-making process - does not replace them)@fa[quote-right]
+@fa[quote-left](It supports humans in the decision-making process & does not replace them)@fa[quote-right]
 @snapend
+
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[Why?]
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
 @snapend
 
-@snap[south span-98 text-center font-montserrat text-black text-07]
+@snap[midpoint span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](Why do we need Augmented Analytics, though?)@fa[quote-right]
-Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge. 
-@fa[quote-left](Augmented Analytics could be well positined to address this challenge through automation...)@fa[quote-right]
+<p>&nbsp;</p>Well, many organizations have been using or have implemented analytic solutions already - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+@snapend
+
+@snap[south span-100 text-center font-montserrat text-black text-07]
+@fa[quote-left](Augmented Analytics well positined to address the challenges through automation...)@fa[quote-right]
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
