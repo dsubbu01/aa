@@ -51,9 +51,9 @@ Challenges...
 @snapend
   
 ---?color=linear-gradient(180deg, black 30%, white 30%)
-@title[&nbsp;&nbsp;&nbsp;&nbsp;> Solution...]
+@title[How?]
 @snap[north span-100 text-center text-bold text-white text-18]
-And, the solution...?
+How do we address these challenges?
 @snapend
 
 @snap[midpoint span-95 text-center font-montserrat text-black text-08]
