@@ -179,10 +179,10 @@ According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics
 @snap[west span-35 text-white text-left text-12]
 Competition...
 @snapend
-@snap[north-east span-69 text-center]
+@snap[north-east span-65 text-left]
 ##### Competition landscape...
 @snapend
-@snap[east span-69 font-montserrat text-left text-05]
+@snap[east span-65 font-montserrat text-left text-05]
 What are our competitors doing in this space?
 (to be filled in)
 @snapend
@@ -193,38 +193,40 @@ What are our competitors doing in this space?
 Expenses...
 @snapend
 
-@snap[north-east span-69 text-center]
+@snap[north-east span-65 text-left]
 ##### Expenses towards buidling this capability?
 @snapend
-@snap[east span-69 font-montserrat text-left text-05]
-What are the expenses that we need to
-- identify
-- plan for
-- track
+@snap[east span-65 font-montserrat text-left text-05]
+What are the expenses that needs to be...
+- identified
+- planned for
+  - near term
+  - short term
+  - long term
+- tracked
 @snapend
 
----?color=linear-gradient(90deg, black 50%, white 50%)
+---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Pricing ...]
-@snap[west span-50 text-white text-14]
+@snap[west span-35 text-white text-left text-12]
 Pricing...
 @snapend
 
-@snap[north-east span-50 text-center]
+@snap[north-east span-65 text-left]
 ##### Pricing
 @snapend
-@snap[east span-48 text-center font-montserrat text-05]
+@snap[east span-65 text-left font-montserrat text-05]
 T-Shirt Pricing...
 @snapend
 
----?color=linear-gradient(90deg, black 50%, white 50%)
+---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Funding ...]
-@snap[west span-50 text-white text-14]
-Commercials (funding)?
+Commercials (funding)...
 @snapend
 
-@snap[north-east span-50 text-center]
+@snap[north-east span-65 text-left]
 ##### What is the ask from the ORB to build this capability?
 @snapend
-@snap[east span-48 font-montserrat text-05]
+@snap[east span-65 font-montserrat text-lefttext-05]
 Financial ask to build this capability ...
 @snapend
