@@ -5,7 +5,7 @@
 ---?color=linear-gradient(180deg, black 35%, white 35%)
 @title[What is Augmented Analytics?]
 @snap[north span-90 text-center text-white text-14]
-What is (and is not) Augmented Analytics?
+What?
 @snapend
 
 @snap[south span-90 text-center font-montserrat text-black text-08]
