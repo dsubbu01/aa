@@ -177,6 +177,17 @@ What are the expenses that we need to identify, plan for, and track
 Commercials (funding)?
 @snapend
 
+@snap[north-east span-50 text-center]
+##### Pricing
+@snapend
+@snap[east span-48 font-montserrat text-05]
+Pricing
+@snapend
+
+---?color=linear-gradient(90deg, black 50%, white 50%)
+@snap[west span-50 text-white text-14]
+Commercials (funding)?
+@snapend
 
 @snap[north-east span-50 text-center]
 ##### What is the ask from the ORB to build this capability?
