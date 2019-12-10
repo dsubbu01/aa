@@ -2,7 +2,7 @@
 @title[Augmented Analytics?]
 # Augmented Analytics
 
----?color=linear-gradient(180deg, black 30%, white 30%)
+---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[What?]
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
@@ -12,10 +12,10 @@ What?
 <p>&nbsp;</p>Augmented Analytics is a new approach to problem solving that uses **artificial intelligence**, **data science**, and **machine learning** to **automate data preparation** and **discovery**, with the goal of **producing unbiased** and **optimized recommendations**
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](It supports humans in the decision-making process & does not replace them)@fa[quote-right]
+@fa[quote-left](Supports humans in the decision-making process & does not replace them)@fa[quote-right]
 @snapend
 
----?color=linear-gradient(180deg, black 30%, white 30%)
+---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[Why?]
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
@@ -27,7 +27,7 @@ Why?
 @snapend
 
 @snap[south span-100 text-center font-montserrat text-black text-07]
-@fa[quote-left](Augmented Analytics well positined to address the challenges through automation...)@fa[quote-right]
+@fa[quote-left](Augmented analytics addresses the challenges through automation...)@fa[quote-right]
 @snapend
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
