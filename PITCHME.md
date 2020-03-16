@@ -42,7 +42,7 @@ Typical Data Scientist Activities
 @snap[north span-100 text-center text-bold text-white text-18]
 Current challenges...
 @snapend
-@snap[east span-58 font-montserrat text-05]
+@snap[midpoint span-100 text-center font-montserrat text-black text-08]
 - Process of going from **raw data to insights** largely remains **manual** and is extremely **time consuming**<p>
 - Business community is **inundated with huge amount of data** and it is only **getting worse**<p>
 - **Data complexity** is on the rise<p>
