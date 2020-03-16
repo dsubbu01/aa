@@ -70,7 +70,7 @@ How do we address these challenges?
 ---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[Target market...]
 @snap[north span-100 text-center text-bold text-white text-14]
-What is the projected market potential?
+About projected market potential?
 @snapend
 @snap[midpoint span-100 text-left font-montserrat text-black text-06]
 <p>&nbsp;</p>
