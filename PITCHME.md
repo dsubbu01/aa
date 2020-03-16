@@ -2,7 +2,7 @@
 @title[Augmented Analytics?]
 # Augmented Analytics
 
----?color=linear-gradient(180deg, black 25%, white 25%)
+---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[What?]
 @snap[north span-100 text-center text-bold text-white text-18]
 What?
@@ -15,7 +15,7 @@ What?
 @fa[quote-left](Supports humans in the decision-making process & does not replace them)@fa[quote-right]
 @snapend
 
----?color=linear-gradient(180deg, black 25%, white 25%)
+---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[Why?]
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
