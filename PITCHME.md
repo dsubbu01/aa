@@ -181,7 +181,7 @@ What is the projected market potential?
 @snapend
 @snap[midpoint span-100 text-left font-montserrat text-black text-06]
 <p>&nbsp;</p>
-Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
+Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p><p>&nbsp;</p>
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
   - was valued at **~ $4B** in **2017**<p>
   - is projected to reach **~ $29B by 2025**<p>
