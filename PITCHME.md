@@ -27,7 +27,7 @@ Why?
 <p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
 @snapend
 
----?color=linear-gradient(180deg, black 30%, white 30%)
+---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Data Scientist Activities]
 @snap[north span-100 text-center text-bold text-white text-14]
 Typical Data Scientist Activities
