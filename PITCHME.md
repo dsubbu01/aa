@@ -29,7 +29,7 @@ Why?
 
 ---?color=linear-gradient(180deg, black 30%, white 30%)
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Data Scientist Activities]
-@snap[north span-100 text-center text-bold text-white text-18]
+@snap[north span-100 text-center text-bold text-white text-14]
 Typical Data Scientist Activities
 @snapend
 @snap[south span-100]
