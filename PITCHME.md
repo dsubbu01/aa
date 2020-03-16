@@ -54,12 +54,16 @@ Current challenges...
 - **Shortage** of expert **data scientists**<p>
 @snapend
 
----?color=linear-gradient(180deg, black 25%, white 25%)
+
+
+
+---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[How?]
 @snap[north span-100 text-center text-bold text-white text-18]
 How?
 @snapend
-@snap[south span-100 text-left font-montserrat text-black text-07]
+@snap[midpoint span-100 text-center font-montserrat text-black text-07]
+<p>&nbsp;</p>
 **How do we address these challenges?**<p>
 - Use **machine-learning** and **artificial intelligence** to **automate data preparation** and **discovery**<p>
 - **Accelerate development** through use of machine-learning to automate **data preparation**, **discover insights**, **develop**, **compare**, **score** and **refine models**, and share insights<p>
