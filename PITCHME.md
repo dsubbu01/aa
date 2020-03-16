@@ -24,7 +24,7 @@ Why?
 @snap[midopint span-100 text-center font-montserrat text-black text-08]
 <p>&nbsp;</p>
 **Why do we need Augmented Analytics, though?**
-<p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.
+<p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge
 @snapend
 
 ---?color=linear-gradient(180deg, black 20%, white 20%)
@@ -74,14 +74,13 @@ About projected market potential?
 @snapend
 @snap[midpoint span-100 text-left font-montserrat text-black text-06]
 <p>&nbsp;</p>
-Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
+Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into
 <p>&nbsp;</p>
 According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
   - was valued at **~ $4B** in **2017**<p>
   - is projected to reach **~ $29B by 2025**<p>
   - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
 @snapend
-
 
 ---?color=linear-gradient(180deg, black 25%, white 25%)
 @title[When?]
