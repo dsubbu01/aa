@@ -39,7 +39,7 @@ Typical Data Scientist Activities
 
 ---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[&nbsp;&nbsp;&nbsp;&nbsp;> Current challenges...]
-@snap[midpoint span-100 text-center font-montserrat text-black text-14]
+@snap[north span-100 text-center text-bold text-white text-18]
 Current challenges...
 @snapend
 @snap[east span-58 font-montserrat text-05]
