@@ -54,9 +54,6 @@ Current challenges...
 - **Shortage** of expert **data scientists**<p>
 @snapend
 
-
-
-
 ---?color=linear-gradient(180deg, black 20%, white 20%)
 @title[How?]
 @snap[north span-100 text-center text-bold text-white text-18]
