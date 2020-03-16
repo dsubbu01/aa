@@ -33,6 +33,7 @@ Why?
 Typical Data Scientist Activities
 @snapend
 @snap[midpoint span-100]
+<p>&nbsp;</p><p>&nbsp;</p>
 ![DataScientistActivities](assets/img/data-scientist-activities.png)
 @snapend
 
