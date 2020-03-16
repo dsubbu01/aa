@@ -170,6 +170,27 @@ To support the emerging paradigm, more new roles focused around data and AI are 
 - **Developer data scientists**: A role with siginificant development effort focused on building ML and AI models to embed into applications
 @snapend
 
+
+
+
+
+---?color=linear-gradient(180deg, black 20%, white 20%)
+@title[Target market...]
+@snap[north span-100 text-center text-bold text-white text-14]
+What is the projected market potential?
+@snapend
+@snap[midpoint span-100 text-center font-montserrat text-black text-07]
+<p>&nbsp;</p>
+Opportunities exist across **all geographies** and across **all industry verticals** due to the nature of the problems that the client organizations are attempting to solve and as such, the market is ready to be tapped into<p>
+According to a <a href="https://www.alliedmarketresearch.com/augmented-analytics-market">report</a> by Allied Market Research, the **global** augmented analytics **market size**...
+  - was valued at **~ $4B** in **2017**<p>
+  - is projected to reach **~ $29B by 2025**<p>
+  - is growing at a **CAGR** of **28.4% from 2018 to 2025**<p>
+@snapend
+
+
+
+
 ---?color=linear-gradient(90deg, black 35%, white 35%)
 @title[Target market...]
 @snap[west span-30 text-white text-left text-14]
