@@ -20,7 +20,7 @@ What?
 @snap[north span-100 text-center text-bold text-white text-18]
 Why?
 @snapend
-@snap[south span-100 text-center font-montserrat text-black text-08]
+@snap[midopint span-100 text-center font-montserrat text-black text-08]
 **Why do we need Augmented Analytics, though?**
 <p>&nbsp;</p>Well, many organizations have already been using (or, have implemented) analytic solutions - however, the general experience of going from **raw data to actionable insights** is a long-drawn-out, **time-consuming process** and, in order to reach the goal, one has to go through a **series** of **complex, manual steps** that has the potential to be **biased** or **error-prone** which is a challenge.<p>&nbsp;</p>
 @snapend
