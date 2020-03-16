@@ -13,6 +13,7 @@ What?
 @snapend
 @snap[south span-100 text-center font-montserrat text-black text-07]
 @fa[quote-left](Supports humans in the decision-making process & does not replace them)@fa[quote-right]
+<p>&nbsp;</p>
 @snapend
 
 ---?color=linear-gradient(180deg, black 20%, white 20%)
